@@ -3,10 +3,9 @@
 
 - 📫 How to reach me **hiepnx03@gmail.com**
 
-<audio controls>
-  <source src="https://www.youtube.com/watch?v=asoXilsytDU" type="audio/mp3">
-  Your browser does not support the audio tag.
-</audio>
+### 🎶 Music
+
+[![Listen to my favorite track](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=asoXilsytDU)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiepnx03&show_icons=true&locale=en&layout=compact" alt="hiepnx03" /></p>
 
