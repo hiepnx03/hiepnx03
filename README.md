@@ -5,7 +5,7 @@
 
 ### 🎶 Music
 
-[![Listen to my favorite track](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=asoXilsytDU)
+[![Listen to my favorite track](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=asoXilsytDU](https://www.youtube.com/watch?v=asoXilsytDU&t=137s))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiepnx03&show_icons=true&locale=en&layout=compact" alt="hiepnx03" /></p>
 
