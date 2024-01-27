@@ -13,7 +13,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiepnx03&theme=default" alt="hiepnx03" /></p>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
