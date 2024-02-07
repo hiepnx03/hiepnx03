@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiệp</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
-<h3 align="center">Tôi Ước Muốn Được Đi Du Lịch Trung Quốc Cùng Em. Và Chơi Hết Mình Như Chưa Từng Mất Gì !</h3>
+
 
 ### 🎶 Music Love
 
