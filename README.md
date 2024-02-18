@@ -6,11 +6,23 @@
 
 [![Listen to my favorite track](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=asoXilsytDU&t=137s)
 
+
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiepnx03&show_icons=true&locale=en&layout=compact" alt="hiepnx03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiepnx03&show_icons=true&locale=en" alt="hiepnx03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiepnx03&theme=default" alt="hiepnx03" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiepnx03&theme=github_dark)
+	<div>
+		![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiepnx03&theme=github_dark)
+		![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiepnx03&theme=github_dark)
+	</div>
 
 <br>
 <h2 align="center"> Where to find me </h2>
@@ -39,3 +51,4 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hgbaodev-email" />
   </a>
 </div>
+
