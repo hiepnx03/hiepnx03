@@ -24,10 +24,11 @@
 	</div>
 
 <br>
+<!--
 <h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.youtube.com/channel/UC1wzA77kA22B86VA4lYNeAg" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" alt="hgbaodev-youtube" />
   </a>
@@ -50,4 +51,5 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hgbaodev-email" />
   </a>
 </div>
+ -->
 
