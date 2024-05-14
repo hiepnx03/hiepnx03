@@ -3,7 +3,7 @@
 
 ### 🎶 Music Love
 
-[![Listen to my favorite track](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=4mmL07h3MMo&t=150s)
+[![Listen to my favorite track](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/4mmL07h3MMo?si=QhV8cK2s6Q_g9tOp&t=134)
 
 
 <!--
