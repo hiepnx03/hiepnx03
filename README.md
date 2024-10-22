@@ -55,5 +55,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hgbaodev-email" />
   </a>
 </div>
- -->
+-->
+
+# [MY-PROFILE](https://hiepnx03.github.io/MY-PROFILE/index.html)
+
+# [VLSM-CALCULATOR](https://hiepnx03.github.io/2024-10-VLSM-Calculator-JavaScript/)
 
